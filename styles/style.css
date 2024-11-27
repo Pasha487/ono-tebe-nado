@@ -120,11 +120,11 @@
 
 .cover__description {
   display: flex;
+  padding: 0 50px 0 78px;
   position: relative;
   align-items: center;
   gap: 79px;
   color: #fff;
-  left: 78px;
 }
 
 .cover__description-text {
