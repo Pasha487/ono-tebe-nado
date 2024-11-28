@@ -185,29 +185,25 @@
 }
 
 .card {
+  position: relative;
   min-height: 100%;
   padding: 51px 40px 48px;
   display: flex;
   flex-direction: column;
   justify-content: space-between;
+  z-index: 1;
 }
 
 .card_type_film {
-  position: relative;
   background: url(../images/card-lot-01.jpg) no-repeat center / cover;
-  z-index: 1;
 }
 
 .card_type_book {
-  position: relative;
   background: url(../images/card-lot-02.jpg) no-repeat center / cover;
-  z-index: 1;
 }
 
 .card_type_picture {
-  position: relative;
   background: url(../images/card-lot-03.jpg) no-repeat center / cover;
-  z-index: 1;
 }
 
 .card_title {
