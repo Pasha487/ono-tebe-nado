@@ -109,10 +109,9 @@
 }
 
 .aligned-text_right {
-  
-  text-align: right; 
+  text-align: right;
   letter-spacing: -1em;
-}
+} 
 
 .letter-spacing-extended {
   letter-spacing: 0.6em;
