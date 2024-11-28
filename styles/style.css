@@ -60,9 +60,9 @@
 }
 
 .header__address {
-    justify-self: flex-end;
-    align-self: center;
-    margin-right: 26px;
+  justify-self: flex-end;
+  align-self: center;
+  margin-right: 26px;
 }
 
 /* второй блок */
@@ -209,7 +209,6 @@
   background: url(../images/card-lot-03.jpg) no-repeat center / cover;
   z-index: 1;
 }
-
 
 .card_title {
   position: relative;
